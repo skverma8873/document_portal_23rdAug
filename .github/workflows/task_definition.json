@@ -1,7 +1,7 @@
 {
   "family": "document-portal-task",
   "networkMode": "awsvpc",
-  "executionRoleArn": "arn:aws:iam::YOUR_AWS_ACCOUNT_ID:role/ecsTaskExecutionRole",
+  "executionRoleArn": "arn:aws:iam::478565410603:user/skv-cicd-documentportal",
   "requiresCompatibilities": ["FARGATE"],
   "cpu": "1024",
   "memory": "8192",
